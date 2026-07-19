@@ -3,10 +3,10 @@ package org.anoop;
 public class Book {
 
     // Properties of a book
-    String title;
-    String author;
-    boolean available;
-    int pages;
+    private String title;
+    private String author;
+    private boolean available;
+    private int pages;
 
     // Constructor runs automatically when a Book object is created
     // Used to initialize the object with values
